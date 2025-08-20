@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: GuildChatAI
+## Notes: Logs guild chat and sends AI responses
+## SavedVariables: GuildChatAIDB
+GuildChatAI.lua
